@@ -9,3 +9,7 @@ i do some stuff. lots of programming languages, mostly Java and C++. i prefer C+
 ### Contact me
 
 [kennyrmccormic@gmail.com](mailto:kennyrmccormick@gmail.com)
+
+---
+
+[this project on github](http://github.com/kennyrkun/kennyrkun.github.io)
