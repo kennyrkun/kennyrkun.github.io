@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+i do some stuff. lots of programming languages, mostly Java and C++. i prefer C++ over everything else, s'just easier.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kennyrmccormic@gmail.com](mailto:kennyrmccormick@gmail.com)
