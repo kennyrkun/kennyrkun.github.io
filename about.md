@@ -11,7 +11,7 @@ some of my favourite things:
 - [SFUI](http://github.com/kennyrkun/sfui)
 
 ### Contact me
-[kennyrmccormic@gmail.com](mailto:kennyrmccormick@gmail.com)
+[kennyrmccormick@gmail.com](mailto:kennyrmccormick@gmail.com)
 
 ---
 [this project on github](http://github.com/kennyrkun/kennyrkun.github.io)
