@@ -5,11 +5,7 @@ title: projects
 
 <div class="projects">
 	{% for project in site.projects %}
-		<h2>
-			<a href="{{ project.link }}">
-			  {{ project.name }} - {{ project.version }}
-			</a>
-		</h2>
+		<h2>{{ project.name }} - {{ project.version }}</h2>
 		
 		<p>{{ project.content | markdownify }}</p>
 
