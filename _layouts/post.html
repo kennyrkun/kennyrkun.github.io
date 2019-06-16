@@ -9,8 +9,9 @@ layout: default
     {{ content }}
   </div>
 
+    <!-- TODO: change "date" to "post-information" -->
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    Written on {{ page.date | date: "%B %e, %Y" }}, by {{ page.author }}.
   </div>
 
   {% include disqus.html %}
