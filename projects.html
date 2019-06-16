@@ -5,14 +5,14 @@ title: projects
 
 <div class="projects">
 	{% for project in site.projects %}
-	
-	  <p>this is a test because i'm pretty sure it doesn't work</p>
-	
-	  <h2>
-		<a href="{{ project.link }}">
-		  {{ project.name }} - {{ project.version }}
-		</a>
-	  </h2>
-	  <p>{{ project.content | markdownify }}</p>
+		<h2>
+			<a href="{{ project.link }}">
+			  {{ project.name }} - {{ project.version }}
+			</a>
+		</h2>
+		
+		<p>{{ project.content | markdownify }}</p>
+
+		<a href="{{ project.link }}" class="more-information">More Information</a>
 	{% endfor %}
 </div>
