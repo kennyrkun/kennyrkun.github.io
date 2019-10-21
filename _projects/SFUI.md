@@ -2,7 +2,7 @@
 layout: project
 name: SFUI
 description: Simple Fast User Interface
-version: 1.0
+version: 2.0
 link: https://www.github.com/kennyrkun/SFUI
 ---
 

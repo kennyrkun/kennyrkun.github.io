@@ -6,4 +6,4 @@ version: 1.13
 link: https://www.github.com/kennyrkun/bobwars
 ---
 
-bobwars is kind of okay but it might need some work, i suppose
+Bob vs. Google+ real time strategy game
