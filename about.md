@@ -12,6 +12,7 @@ some of my favourite things:
 
 ### Contact me
 [kennyrmccormick@gmail.com](mailto:kennyrmccormick@gmail.com)
+[kmccormick@kunindustries.com](mailto:kmccormick@kunindustries.com)
 
 ---
 [this project on github](http://github.com/kennyrkun/kennyrkun.github.io)
